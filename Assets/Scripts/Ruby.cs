@@ -11,7 +11,8 @@ public class Ruby : MonoBehaviour
     [SerializeField]
     private float moveSpeed;
 
-    private int HP = 30; // mi entero vale 30 de forma inicial. en este caso mi HP
+    public int maxHP = 30; // mi entero vale 30 de forma inicial. en este caso mi HP
+    [HideInInspector] //asi no sale en unity, asi no se puede modificar en el editor.
     public int currentHP = 30; //si la de arriba es incial, esta vera cuando le pegan y asi
 
     // Start is called before the first frame update
@@ -83,8 +84,8 @@ public class Ruby : MonoBehaviour
 
         if (collision.CompareTag("Heal"))
         {
-            if ((currentHP + collision.GetComponent<Heal>().HealAmount) > HP) //ahora con el limite superior
-                currentHP = 0;
+            if ((currentHP + collision.GetComponent<Heal>().HealAmount) > maxHP) //ahora con el limite superior
+                currentHP = maxHP;
             else
                 currentHP += collision.GetComponent<Heal>().HealAmount;
 
