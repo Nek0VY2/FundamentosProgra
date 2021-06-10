@@ -6,6 +6,7 @@ public class Heal : MonoBehaviour
 {
     public int HealAmount;
     private Animator animator;
+    public ParticleSystem particlesHe;
 
     private void Start()
     {
@@ -21,6 +22,7 @@ public class Heal : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             animator.SetTrigger("MedkitAnimation");
+            particlesHe.Play();
             //InteractWithPlayer();
             //activar animación del heal en lugar de bajar la vida por que eso ya se paso a ruby
         }

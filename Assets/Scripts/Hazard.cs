@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Hazard : MonoBehaviour
 {
-    public int DamageAmount;
+    public int damageAmount;
     private Animator animator;
+    public ParticleSystem particlesHa;
 
     private void Start()
     {
@@ -22,6 +23,8 @@ public class Hazard : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             animator.SetTrigger("HazardActive");
+            particlesHa.Play();
+            
             //InteractWithPlayer();
             //activar animación del hazard en lugar de bajar la vida por que eso ya se paso a ruby
         }

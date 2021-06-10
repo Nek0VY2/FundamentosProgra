@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 3845d64899405b4469811e8da53117c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5691849825435441936
+    second: Sprite sheet LunaV4_0
+  - first:
+      213: -5068484757829150075
+    second: Sprite sheet LunaV4_1
+  - first:
+      213: -8451428448810196423
+    second: Sprite sheet LunaV4_2
+  - first:
+      213: 8424009881719880454
+    second: Sprite sheet LunaV4_3
+  - first:
+      213: -1194954575861264021
+    second: Sprite sheet LunaV4_4
+  - first:
+      213: 7211744379648536626
+    second: Sprite sheet LunaV4_5
+  - first:
+      213: 3653613906539633732
+    second: Sprite sheet LunaV4_6
+  - first:
+      213: 3731139284394631299
+    second: Sprite sheet LunaV4_7
+  - first:
+      213: -3212297885668772252
+    second: Sprite sheet LunaV4_8
+  - first:
+      213: -5795604090000328121
+    second: Sprite sheet LunaV4_9
+  - first:
+      213: -901128478619264837
+    second: Sprite sheet LunaV4_10
+  - first:
+      213: -6956347739405245881
+    second: Sprite sheet LunaV4_11
+  - first:
+      213: -7059050446112992004
+    second: Sprite sheet LunaV4_12
+  - first:
+      213: -722861709195189469
+    second: Sprite sheet LunaV4_13
+  - first:
+      213: 5663439809999009257
+    second: Sprite sheet LunaV4_14
+  - first:
+      213: 77897540166518307
+    second: Sprite sheet LunaV4_15
+  - first:
+      213: -8413409409747155982
+    second: Sprite sheet LunaV4_16
+  - first:
+      213: -799910801667424669
+    second: Sprite sheet LunaV4_17
+  - first:
+      213: 1468186690538340554
+    second: Sprite sheet LunaV4_18
+  - first:
+      213: -5136988129755744755
+    second: Sprite sheet LunaV4_19
+  - first:
+      213: -5676553165064110213
+    second: Sprite sheet LunaV4_20
+  - first:
+      213: 9059936511447301516
+    second: Sprite sheet LunaV4_21
+  - first:
+      213: 1348322993387144784
+    second: Sprite sheet LunaV4_22
+  - first:
+      213: 5855545240964937029
+    second: Sprite sheet LunaV4_23
+  - first:
+      213: -5933034680982160367
+    second: Sprite sheet LunaV4_24
+  - first:
+      213: 8286433621508661810
+    second: Sprite sheet LunaV4_25
+  - first:
+      213: 5891923567872672529
+    second: Sprite sheet LunaV4_26
+  - first:
+      213: -4083332341863940541
+    second: Sprite sheet LunaV4_27
+  - first:
+      213: 3188089482897986415
+    second: Sprite sheet LunaV4_28
+  - first:
+      213: -9021515147140203798
+    second: Sprite sheet LunaV4_29
+  - first:
+      213: -2906692250440030269
+    second: Sprite sheet LunaV4_30
+  - first:
+      213: -7445091457878879245
+    second: Sprite sheet LunaV4_31
+  - first:
+      213: 8697269059680332683
+    second: Sprite sheet LunaV4_32
+  - first:
+      213: -3399785371640004628
+    second: Sprite sheet LunaV4_33
+  - first:
+      213: 3055541025379655153
+    second: Sprite sheet LunaV4_34
+  - first:
+      213: 8234749945078156167
+    second: Sprite sheet LunaV4_35
+  - first:
+      213: -562480827676224276
+    second: Sprite sheet LunaV4_36
+  - first:
+      213: -4906112451096395486
+    second: Sprite sheet LunaV4_37
+  - first:
+      213: -4007101274953248872
+    second: Sprite sheet LunaV4_38
+  - first:
+      213: -1415824077444836493
+    second: Sprite sheet LunaV4_39
+  - first:
+      213: -7649133045722977472
+    second: Sprite sheet LunaV4_40
+  - first:
+      213: 6095361686099271995
+    second: Sprite sheet LunaV4_41
+  - first:
+      213: -4010166615019242645
+    second: Sprite sheet LunaV4_42
+  - first:
+      213: -8518952300723837850
+    second: Sprite sheet LunaV4_43
+  - first:
+      213: -3934432496421833712
+    second: Sprite sheet LunaV4_44
+  - first:
+      213: -212631277444940060
+    second: Sprite sheet LunaV4_45
+  - first:
+      213: -8281596683654428566
+    second: Sprite sheet LunaV4_46
+  - first:
+      213: 4702455668444700272
+    second: Sprite sheet LunaV4_47
+  - first:
+      213: -5767725365489582874
+    second: Sprite sheet LunaV4_48
+  - first:
+      213: 5752835635477427434
+    second: Sprite sheet LunaV4_49
+  - first:
+      213: 4512044504826255793
+    second: Sprite sheet LunaV4_50
+  - first:
+      213: 2574554853833436240
+    second: Sprite sheet LunaV4_51
+  - first:
+      213: -8382882820411547867
+    second: Sprite sheet LunaV4_52
+  - first:
+      213: 8485919806772375632
+    second: Sprite sheet LunaV4_53
+  - first:
+      213: -8992744522622806160
+    second: Sprite sheet LunaV4_54
+  - first:
+      213: 5821684231644223024
+    second: Sprite sheet LunaV4_55
+  - first:
+      213: 3050399123658548936
+    second: Sprite sheet LunaV4_56
+  - first:
+      213: -4803285909397501630
+    second: Sprite sheet LunaV4_57
+  - first:
+      213: -3315339105335445312
+    second: Sprite sheet LunaV4_58
+  - first:
+      213: -5081081791272310503
+    second: Sprite sheet LunaV4_59
+  - first:
+      213: -7059094508999624849
+    second: Sprite sheet LunaV4_60
+  - first:
+      213: -1645717285930335409
+    second: Sprite sheet LunaV4_61
+  - first:
+      213: 8887999719216456104
+    second: Sprite sheet LunaV4_62
+  - first:
+      213: -1333444306689104733
+    second: Sprite sheet LunaV4_63
+  - first:
+      213: 5593641867831828861
+    second: Sprite sheet LunaV4_64
+  - first:
+      213: -2050060136501029086
+    second: Sprite sheet LunaV4_65
+  - first:
+      213: 7098317383533893492
+    second: Sprite sheet LunaV4_66
+  - first:
+      213: 304285121758061684
+    second: Sprite sheet LunaV4_67
+  - first:
+      213: -818334045075441788
+    second: Sprite sheet LunaV4_68
+  - first:
+      213: 5312859099895809656
+    second: Sprite sheet LunaV4_69
+  - first:
+      213: 743872168150542073
+    second: Sprite sheet LunaV4_70
+  - first:
+      213: 6350259824960350739
+    second: Sprite sheet LunaV4_71
+  - first:
+      213: -789582217085501325
+    second: Sprite sheet LunaV4_72
+  - first:
+      213: 41240710395902154
+    second: Sprite sheet LunaV4_73
+  - first:
+      213: 3672102251903346020
+    second: Sprite sheet LunaV4_74
+  - first:
+      213: -5280638237382247466
+    second: Sprite sheet LunaV4_75
+  - first:
+      213: 8261781098024349202
+    second: Sprite sheet LunaV4_76
+  - first:
+      213: 4034545750320618031
+    second: Sprite sheet LunaV4_77
+  - first:
+      213: 7640989036978792110
+    second: Sprite sheet LunaV4_78
+  - first:
+      213: 5510479793698654480
+    second: Sprite sheet LunaV4_79
+  - first:
+      213: -4263826217458530482
+    second: Sprite sheet LunaV4_80
+  - first:
+      213: 8383804842743876120
+    second: Sprite sheet LunaV4_81
+  - first:
+      213: -2602667087089621821
+    second: Sprite sheet LunaV4_82
+  - first:
+      213: 6182569125763652140
+    second: Sprite sheet LunaV4_83
+  - first:
+      213: 3338031745762839601
+    second: Sprite sheet LunaV4_84
+  - first:
+      213: -8887903929095700668
+    second: Sprite sheet LunaV4_85
+  - first:
+      213: 2382713266648036726
+    second: Sprite sheet LunaV4_86
+  - first:
+      213: 2539808938083615937
+    second: Sprite sheet LunaV4_87
+  - first:
+      213: -7268290278967941962
+    second: Sprite sheet LunaV4_88
+  - first:
+      213: 3408501375846460094
+    second: Sprite sheet LunaV4_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd2ff62438dfe40800000000000000
+      internalID: 5691849825435441936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9c1c77ff19a9b0800000000000000
+      internalID: -5068484757829150075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a9087a9e76ba80800000000000000
+      internalID: -8451428448810196423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3b48ea5818e470800000000000000
+      internalID: 8424009881719880454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61df07f42baa6fe0800000000000000
+      internalID: -1194954575861264021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230fed7cd43451460800000000000000
+      internalID: 7211744379648536626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd8b58d7e34b230800000000000000
+      internalID: 3653613906539633732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e8d5296ba7c330800000000000000
+      internalID: 3731139284394631299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46679fba710ab63d0800000000000000
+      internalID: -3212297885668772252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ababc59c0e19fa0800000000000000
+      internalID: -5795604090000328121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb819ee4c6c8e73f0800000000000000
+      internalID: -901128478619264837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_11
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742a8aa5696167f90800000000000000
+      internalID: -6956347739405245881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45fdb0507390e90800000000000000
+      internalID: -7059050446112992004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32360b9fa11e7f5f0800000000000000
+      internalID: -722861709195189469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_14
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5fbc14084989e40800000000000000
+      internalID: 5663439809999009257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_15
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326808a666fb41100800000000000000
+      internalID: 77897540166518307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_16
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3871ec7b09d3b80800000000000000
+      internalID: -8413409409747155982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_17
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7d9e2d5526e4f0800000000000000
+      internalID: -799910801667424669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_18
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac08e79240c006410800000000000000
+      internalID: 1468186690538340554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_19
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b28e4380c5b8b0800000000000000
+      internalID: -5136988129755744755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ffbb7d8f4d831b0800000000000000
+      internalID: -5676553165064110213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_21
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d786c614c5bbd70800000000000000
+      internalID: 9059936511447301516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_22
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05605576e9436b210800000000000000
+      internalID: 1348322993387144784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_23
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b1f56f53134150800000000000000
+      internalID: 5855545240964937029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3cf76460a9ada0800000000000000
+      internalID: -5933034680982160367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_25
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232a0e0b9735ff270800000000000000
+      internalID: 8286433621508661810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_26
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1138dcaa44154c150800000000000000
+      internalID: 5891923567872672529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_27
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef5579ed61557c0800000000000000
+      internalID: -4083332341863940541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_28
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631b445e7e5e3c20800000000000000
+      internalID: 3188089482897986415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_29
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaf6ee85c32dc280800000000000000
+      internalID: -9021515147140203798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_30
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7242d6cca59a7d0800000000000000
+      internalID: -2906692250440030269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_31
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f395dcc3c8bda890800000000000000
+      internalID: -7445091457878879245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_32
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bed323128e2b870800000000000000
+      internalID: 8697269059680332683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_33
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff3d2a73981d0d0800000000000000
+      internalID: -3399785371640004628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_34
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1366af56776a20800000000000000
+      internalID: 3055541025379655153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_35
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0d8a0275b74270800000000000000
+      internalID: 8234749945078156167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_36
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1083
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41469daaaa138f0800000000000000
+      internalID: -562480827676224276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221474c28bcf9ebb0800000000000000
+      internalID: -4906112451096395486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f8567fe9ae368c0800000000000000
+      internalID: -4007101274953248872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373947fb08bf95ce0800000000000000
+      internalID: -1415824077444836493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_40
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04beaf19502d8d590800000000000000
+      internalID: -7649133045722977472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31297da823179450800000000000000
+      internalID: 6095361686099271995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb5add5b60958c0800000000000000
+      internalID: -4010166615019242645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ebd0940a96c980800000000000000
+      internalID: -8518952300723837850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_44
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f5027d761669c0800000000000000
+      internalID: -3934432496421833712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb1cfcaf49c0df0800000000000000
+      internalID: -212631277444940060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_46
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6889b9a1bbd11d80800000000000000
+      internalID: -8281596683654428566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1ba9048a724140800000000000000
+      internalID: 4702455668444700272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_48
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbbfbb65ce4ffa0800000000000000
+      internalID: -5767725365489582874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 722
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae437d7d78d26df40800000000000000
+      internalID: 5752835635477427434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91ce042900e9e30800000000000000
+      internalID: 4512044504826255793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cef7dbff7aab320800000000000000
+      internalID: 2574554853833436240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f15af3d740aab80800000000000000
+      internalID: -8382882820411547867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507e1b9a1b04c570800000000000000
+      internalID: 8485919806772375632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0775a35908a533380800000000000000
+      internalID: -8992744522622806160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03695adc6f6cac050800000000000000
+      internalID: 5821684231644223024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_56
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a4dc57d1355a20800000000000000
+      internalID: 3050399123658548936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_57
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24909bf0aec475db0800000000000000
+      internalID: -4803285909397501630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_58
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8f48c26ac8df1d0800000000000000
+      internalID: -3315339105335445312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_59
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192284180f5c79b0800000000000000
+      internalID: -5081081791272310503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_60
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67ba2bd1fe090e90800000000000000
+      internalID: -7059094508999624849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_61
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43076b09dc3929e0800000000000000
+      internalID: -1645717285930335409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_62
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a12bab67a4885b70800000000000000
+      internalID: 8887999719216456104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_63
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4670cc777ae7de0800000000000000
+      internalID: -1333444306689104733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_64
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d716ed474ab90ad40800000000000000
+      internalID: 5593641867831828861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_65
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227daa3ea29bc83e0800000000000000
+      internalID: -2050060136501029086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_66
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47794844d0a428260800000000000000
+      internalID: 7098317383533893492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_67
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47463d0c4b9093400800000000000000
+      internalID: 304285121758061684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_68
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 361
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4877baf8581b4a4f0800000000000000
+      internalID: -818334045075441788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876cdfed3311bb940800000000000000
+      internalID: 5312859099895809656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a9e4bbc3c25a00800000000000000
+      internalID: 743872168150542073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a223a6aa7a02850800000000000000
+      internalID: 6350259824960350739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_72
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37047ad2827da05f0800000000000000
+      internalID: -789582217085501325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8be652534829000800000000000000
+      internalID: 41240710395902154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_74
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656c9fda8de5f230800000000000000
+      internalID: 3672102251903346020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_75
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7c79408767b6b0800000000000000
+      internalID: -5280638237382247466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_76
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e27c7c22eb7a270800000000000000
+      internalID: 8261781098024349202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_77
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1ce5ebf59df730800000000000000
+      internalID: 4034545750320618031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_78
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea666c1ab0f3a0a60800000000000000
+      internalID: 7640989036978792110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_79
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01940653d28297c40800000000000000
+      internalID: 5510479793698654480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_80
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47036c55a8d3d4c0800000000000000
+      internalID: -4263826217458530482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_81
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac2fdc512495470800000000000000
+      internalID: 8383804842743876120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_82
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c42c65e21871ebd0800000000000000
+      internalID: -2602667087089621821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_83
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a907cfcd5ecc550800000000000000
+      internalID: 6182569125763652140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_84
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccb27ef22135e20800000000000000
+      internalID: 3338031745762839601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_85
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb3747772d7a480800000000000000
+      internalID: -8887903929095700668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_86
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ba248719111120800000000000000
+      internalID: 2382713266648036726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_87
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c406dfc5c63f3320800000000000000
+      internalID: 2539808938083615937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_88
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e0b51088d12b90800000000000000
+      internalID: -7268290278967941962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet LunaV4_89
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 180.32433
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba22cb31fd6d4f20800000000000000
+      internalID: 3408501375846460094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

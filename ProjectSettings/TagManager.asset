@@ -7,6 +7,8 @@ TagManager:
   - Hazard
   - Heal
   - Geometry
+  - Enemy
+  - Piso
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,2552 @@
+fileFormatVersion: 2
+guid: 1490ecaba94880948b06452f11caa4f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3032318905712114201
+    second: THISONE_0
+  - first:
+      213: 146910939786703321
+    second: THISONE_1
+  - first:
+      213: -3119179534314966656
+    second: THISONE_2
+  - first:
+      213: -3283348478247420142
+    second: THISONE_3
+  - first:
+      213: 5797914231593464541
+    second: THISONE_4
+  - first:
+      213: -3268667631585518166
+    second: THISONE_5
+  - first:
+      213: -9086508465593062055
+    second: THISONE_6
+  - first:
+      213: 2044759873015545770
+    second: THISONE_7
+  - first:
+      213: -4211997728264068867
+    second: THISONE_8
+  - first:
+      213: 4267614737645703214
+    second: THISONE_9
+  - first:
+      213: 7032167056418606618
+    second: THISONE_10
+  - first:
+      213: -6905365332467628489
+    second: THISONE_11
+  - first:
+      213: -389235704238382948
+    second: THISONE_12
+  - first:
+      213: -557486744382994269
+    second: THISONE_13
+  - first:
+      213: 3936076614307136642
+    second: THISONE_14
+  - first:
+      213: -861419871183513332
+    second: THISONE_15
+  - first:
+      213: -1524114007714546665
+    second: THISONE_16
+  - first:
+      213: -3643948101077219009
+    second: THISONE_17
+  - first:
+      213: 7471915941642392187
+    second: THISONE_18
+  - first:
+      213: -8286936509197767389
+    second: THISONE_19
+  - first:
+      213: -6250656265513283020
+    second: THISONE_20
+  - first:
+      213: -7786993609754481545
+    second: THISONE_21
+  - first:
+      213: -7129721910558782292
+    second: THISONE_22
+  - first:
+      213: 8801087010184623327
+    second: THISONE_23
+  - first:
+      213: 5713751316382479151
+    second: THISONE_24
+  - first:
+      213: 6823491546462451227
+    second: THISONE_25
+  - first:
+      213: -4996848833257145022
+    second: THISONE_26
+  - first:
+      213: 6221116459496866460
+    second: THISONE_27
+  - first:
+      213: 6677820676007977708
+    second: THISONE_28
+  - first:
+      213: 7809690785870405695
+    second: THISONE_29
+  - first:
+      213: -1198192875678934425
+    second: THISONE_30
+  - first:
+      213: 3194966173712678133
+    second: THISONE_31
+  - first:
+      213: -7888877252152738162
+    second: THISONE_32
+  - first:
+      213: -4197036793339287013
+    second: THISONE_33
+  - first:
+      213: 948735910155020921
+    second: THISONE_34
+  - first:
+      213: 4225683235237685165
+    second: THISONE_35
+  - first:
+      213: 4659448457720802142
+    second: THISONE_36
+  - first:
+      213: -8648620428137622517
+    second: THISONE_37
+  - first:
+      213: -1090403373314072396
+    second: THISONE_38
+  - first:
+      213: 2486858157319248840
+    second: THISONE_39
+  - first:
+      213: 5999135213780941843
+    second: THISONE_40
+  - first:
+      213: -3909670364998649798
+    second: THISONE_41
+  - first:
+      213: -2970034622713249597
+    second: THISONE_42
+  - first:
+      213: 6284898534248366511
+    second: THISONE_43
+  - first:
+      213: -1046507525942828584
+    second: THISONE_44
+  - first:
+      213: 1102130054190249648
+    second: THISONE_45
+  - first:
+      213: -5631425863938664199
+    second: THISONE_46
+  - first:
+      213: 6429920795751663945
+    second: THISONE_47
+  - first:
+      213: -3540350584439640131
+    second: THISONE_48
+  - first:
+      213: -2562858933020475329
+    second: THISONE_49
+  - first:
+      213: -781681552665633723
+    second: THISONE_50
+  - first:
+      213: -4763217051177782716
+    second: THISONE_51
+  - first:
+      213: 206170900528340229
+    second: THISONE_52
+  - first:
+      213: 2408046015867147798
+    second: THISONE_53
+  - first:
+      213: 343022185924017906
+    second: THISONE_54
+  - first:
+      213: -6575024904599125026
+    second: THISONE_55
+  - first:
+      213: -5665854781251456081
+    second: THISONE_56
+  - first:
+      213: 5632343520619420016
+    second: THISONE_57
+  - first:
+      213: -1724904110886508055
+    second: THISONE_58
+  - first:
+      213: 7272555513943697198
+    second: THISONE_59
+  - first:
+      213: 8547137033670848346
+    second: THISONE_60
+  - first:
+      213: -8581863454105474267
+    second: THISONE_61
+  - first:
+      213: -6799367993745683672
+    second: THISONE_62
+  - first:
+      213: 7484450287066658089
+    second: THISONE_63
+  - first:
+      213: -4974377919320683608
+    second: THISONE_64
+  - first:
+      213: 2577639768650725835
+    second: THISONE_65
+  - first:
+      213: -8387195985790511311
+    second: THISONE_66
+  - first:
+      213: 7507885597200590349
+    second: THISONE_67
+  - first:
+      213: -2450737531369680530
+    second: THISONE_68
+  - first:
+      213: 1483189667046232375
+    second: THISONE_69
+  - first:
+      213: 8482399955503978034
+    second: THISONE_70
+  - first:
+      213: 2966469573342171872
+    second: THISONE_71
+  - first:
+      213: 9059337129594116635
+    second: THISONE_72
+  - first:
+      213: -4558972988902328966
+    second: THISONE_73
+  - first:
+      213: -4774090318048399261
+    second: THISONE_74
+  - first:
+      213: 6636666597733309837
+    second: THISONE_75
+  - first:
+      213: -1624208860863608569
+    second: THISONE_76
+  - first:
+      213: -3195096205904356437
+    second: THISONE_77
+  - first:
+      213: -3230469326389046670
+    second: THISONE_78
+  - first:
+      213: 7455034126556014918
+    second: THISONE_79
+  - first:
+      213: -2366044017517952991
+    second: THISONE_80
+  - first:
+      213: 2338708884307624225
+    second: THISONE_81
+  - first:
+      213: 4752868742179794035
+    second: THISONE_82
+  - first:
+      213: 6038595807401528167
+    second: THISONE_83
+  - first:
+      213: -9216151600994622809
+    second: THISONE_84
+  - first:
+      213: 7843604600463245291
+    second: THISONE_85
+  - first:
+      213: -7248834820498397305
+    second: THISONE_86
+  - first:
+      213: -5369519407445308719
+    second: THISONE_87
+  - first:
+      213: -4921760361867097797
+    second: THISONE_88
+  - first:
+      213: -5902313428143828740
+    second: THISONE_89
+  - first:
+      213: -2032660051039435139
+    second: THISONE_90
+  - first:
+      213: 2584410443762155590
+    second: THISONE_91
+  - first:
+      213: 3067309053905286130
+    second: THISONE_92
+  - first:
+      213: 6681565281177236712
+    second: THISONE_93
+  - first:
+      213: 7646221601729415286
+    second: THISONE_94
+  - first:
+      213: -8609525390136210614
+    second: THISONE_95
+  - first:
+      213: -2259259624935910320
+    second: THISONE_96
+  - first:
+      213: -959758256647453771
+    second: THISONE_97
+  - first:
+      213: 5314445408386223674
+    second: THISONE_98
+  - first:
+      213: -2447835418207243068
+    second: THISONE_99
+  - first:
+      213: -8771504913948427994
+    second: THISONE_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THISONE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afba49af5f41a20800000000000000
+      internalID: 3032318905712114201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fa9ba8bee90200800000000000000
+      internalID: 146910939786703321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fc7a5db276b4d0800000000000000
+      internalID: -3119179534314966656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3e3874f33f62d0800000000000000
+      internalID: -3283348478247420142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27f446644567050800000000000000
+      internalID: 5797914231593464541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad17827b1c53a2d0800000000000000
+      internalID: -3268667631585518166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95deeb361bc36e180800000000000000
+      internalID: -9086508465593062055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf701a5542706c10800000000000000
+      internalID: 2044759873015545770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0611cd16afb85c0800000000000000
+      internalID: -4211997728264068867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20189b3efc993b30800000000000000
+      internalID: 4267614737645703214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e09070ea6479160800000000000000
+      internalID: 7032167056418606618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_11
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73648f9f0d63b20a0800000000000000
+      internalID: -6905365332467628489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e8f27038299af0800000000000000
+      internalID: -389235704238382948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8001a72c86348f0800000000000000
+      internalID: -557486744382994269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_14
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284cf7493d0cf9630800000000000000
+      internalID: 3936076614307136642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_15
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09d4afe03f9b04f0800000000000000
+      internalID: -861419871183513332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_16
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3af4926249dae0800000000000000
+      internalID: -1524114007714546665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_17
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39455f22881e6dc0800000000000000
+      internalID: -3643948101077219009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_18
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725c2506f391b760800000000000000
+      internalID: 7471915941642392187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_19
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2d05a623eefc80800000000000000
+      internalID: -8286936509197767389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d2017e353149a0800000000000000
+      internalID: -6250656265513283020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_21
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce856b19a0fe390800000000000000
+      internalID: -7786993609754481545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_22
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac03dd72b32e0d90800000000000000
+      internalID: -7129721910558782292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_23
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4fb5f610eb32a70800000000000000
+      internalID: 8801087010184623327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23f5ebac825b4f40800000000000000
+      internalID: 5713751316382479151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_25
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1676cab869e1be50800000000000000
+      internalID: 6823491546462451227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_26
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df169e570a7aab0800000000000000
+      internalID: -4996848833257145022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_27
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9285a28578d55650800000000000000
+      internalID: 6221116459496866460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_28
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e63336826cac50800000000000000
+      internalID: 6677820676007977708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_29
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3062796468916c60800000000000000
+      internalID: 7809690785870405695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_30
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad0c88de92f5fe0800000000000000
+      internalID: -1198192875678934425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_31
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc788daeccc65c20800000000000000
+      internalID: 3194966173712678133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_32
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb6ccafe3158290800000000000000
+      internalID: -7888877252152738162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_33
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a64c7f54121c5c0800000000000000
+      internalID: -4197036793339287013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_34
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a627e98469a2d00800000000000000
+      internalID: 948735910155020921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_35
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76aa98384a4aa30800000000000000
+      internalID: 4225683235237685165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_36
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1087
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba0bb7fafa9a040800000000000000
+      internalID: 4659448457720802142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049baffa8de9f780800000000000000
+      internalID: -8648620428137622517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02abfb8eb1ed0f0800000000000000
+      internalID: -1090403373314072396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbdbc17158138220800000000000000
+      internalID: 2486858157319248840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_40
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c33f031b5314350800000000000000
+      internalID: 5999135213780941843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383261748f0eb9c0800000000000000
+      internalID: -3909670364998649798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c09e1f3158c6d0800000000000000
+      internalID: -2970034622713249597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14f370be1783750800000000000000
+      internalID: 6284898534248366511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_44
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1a76523fe0a71f0800000000000000
+      internalID: -1046507525942828584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ba48e17d8b4f00800000000000000
+      internalID: 1102130054190249648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_46
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81df8630829d1b0800000000000000
+      internalID: -5631425863938664199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949cca485eaab3950800000000000000
+      internalID: 6429920795751663945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_48
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfe02aa6e52edec0800000000000000
+      internalID: -3540350584439640131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c0e70165ee6cd0800000000000000
+      internalID: -2562858933020475329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_50
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c93e5f4c8e625f0800000000000000
+      internalID: -781681552665633723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_51
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442f67c1457a5edb0800000000000000
+      internalID: -4763217051177782716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_52
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d930977577cd200800000000000000
+      internalID: 206170900528340229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_53
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6165e82d7191b6120800000000000000
+      internalID: 2408046015867147798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_54
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe34165cd8a2c400800000000000000
+      internalID: 343022185924017906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_55
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 725
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c50c6fa1d0c4a0800000000000000
+      internalID: -6575024904599125026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3fe8e6817de51b0800000000000000
+      internalID: -5665854781251456081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795e7f279a1a2e40800000000000000
+      internalID: 5632343520619420016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9affe99d8ef08e0800000000000000
+      internalID: -1724904110886508055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e272ce155be4de460800000000000000
+      internalID: 7272555513943697198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6982f8d78d9670800000000000000
+      internalID: 8547137033670848346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_61
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be22b38a817e880800000000000000
+      internalID: -8581863454105474267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_62
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc0a395dac3a1a0800000000000000
+      internalID: -6799367993745683672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_63
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bdabb1eb1ed760800000000000000
+      internalID: 7484450287066658089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_64
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab085443a577fab0800000000000000
+      internalID: -4974377919320683608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_65
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b85176bd95c320800000000000000
+      internalID: 2577639768650725835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_66
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137df5d20b1ba9b80800000000000000
+      internalID: -8387195985790511311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_67
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a9631c2e513860800000000000000
+      internalID: 7507885597200590349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_68
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611ef4233b3dfdd0800000000000000
+      internalID: -2450737531369680530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_69
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73112d6d429559410800000000000000
+      internalID: 1483189667046232375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_70
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369a9e51d987b570800000000000000
+      internalID: 8482399955503978034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_71
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e290142c540b2920800000000000000
+      internalID: 2966469573342171872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_72
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad6f5fe1b39bd70800000000000000
+      internalID: 9059337129594116635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_73
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7530e798364bb0c0800000000000000
+      internalID: -4558972988902328966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_74
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f71366260fbdb0800000000000000
+      internalID: -4774090318048399261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_75
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d189aab1d2a1c50800000000000000
+      internalID: 6636666597733309837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_76
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ce2f75a6a579e0800000000000000
+      internalID: -1624208860863608569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_77
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5fd7ddecb8a3d0800000000000000
+      internalID: -3195096205904356437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_78
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27219ce63411b23d0800000000000000
+      internalID: -3230469326389046670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_79
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 363
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64929c52a0a957760800000000000000
+      internalID: 7455034126556014918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12087ec708f1a2fd0800000000000000
+      internalID: -2366044017517952991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c43ad653c47020800000000000000
+      internalID: 2338708884307624225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2fa170f495f140800000000000000
+      internalID: 4752868742179794035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bc45a94e66dc350800000000000000
+      internalID: 6038595807401528167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2619ab2f6a91080800000000000000
+      internalID: -9216151600994622809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef3b31b3d41adc60800000000000000
+      internalID: 7843604600463245291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_86
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787e5b00327f66b90800000000000000
+      internalID: -7248834820498397305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_87
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da08a04c82ab75b0800000000000000
+      internalID: -5369519407445308719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_88
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394059070562bbb0800000000000000
+      internalID: -4921760361867097797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_89
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0187a7535c61ea0800000000000000
+      internalID: -5902313428143828740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_90
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76caacf37a8ac3e0800000000000000
+      internalID: -2032660051039435139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_91
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c0461b9badd320800000000000000
+      internalID: 2584410443762155590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_92
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f33d5e4555419a20800000000000000
+      internalID: 3067309053905286130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_93
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f6280930b9bc50800000000000000
+      internalID: 6681565281177236712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_94
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678000d0906dc1a60800000000000000
+      internalID: 7646221601729415286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_95
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b893cd542d48880800000000000000
+      internalID: -8609525390136210614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_96
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0541058575f75a0e0800000000000000
+      internalID: -2259259624935910320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_97
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c74a53f04ea2f0800000000000000
+      internalID: -959758256647453771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_98
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e011911f3b0c940800000000000000
+      internalID: 5314445408386223674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_99
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4332508aa870ed0800000000000000
+      internalID: -2447835418207243068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THISONE_100
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1
+        width: 180
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b28211ca554680800000000000000
+      internalID: -8771504913948427994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
